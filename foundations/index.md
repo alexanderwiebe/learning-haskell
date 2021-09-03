@@ -12,6 +12,7 @@
 - [Lambda Ultimate](http://lambda-the-ultimate.org/papers)
 - [Why Functional Progamming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 - [CONS should not Evaluate its Arguments](https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR44)
+- [The next 700 Programming Languages](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)
 
 ### Books
 
